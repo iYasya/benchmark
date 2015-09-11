@@ -1,3 +1,6 @@
+# prepare
+bundle
+
 # start web-server 
 ruby app.rb
 
